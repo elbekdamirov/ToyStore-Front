@@ -17,3 +17,4 @@ import img8 from "../assets/img8.png";
 export const social = [twitter, facebook, instagram, pinterest, youtube];
 export const stuffed = [img1, img2, img3, img4];
 export const wooden = [img5, img6, img7, img8];
+  

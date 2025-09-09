@@ -9,6 +9,7 @@ import { stuffed, wooden } from "./static";
 import Webflow from "./components/Webflow";
 import Subscription from "./components/Subscription";
 import Instagram from "./components/Instagram";
+import About from "./components/About";
 
 const App = () => {
   return (
@@ -20,6 +21,7 @@ const App = () => {
         <Category />
         <Toys type={stuffed} title="Stuffed" />
         <Toys type={wooden} title="Wooden" />
+        <About />
         <Webflow />
         <Subscription />
         <Instagram />
